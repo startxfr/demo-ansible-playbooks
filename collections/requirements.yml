@@ -1,7 +1,6 @@
 collections:
     - name: ansible.tower
-    - name: cisco.nxos
     - name: awx.awx
-    - name: startx.demo_collection
+    - name: startx_demo.collection_demo
     - name: amazon.aws
     - name: google.cloud
