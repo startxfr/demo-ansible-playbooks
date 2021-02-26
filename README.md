@@ -1,2 +1,3 @@
-# ASC_Prod_Demo
-Ansible Service Catalog Production Demo Playbooks
+# Startx demo library of playbooks
+
+Ansible Service Catalog Demo Playbooks
